@@ -1,0 +1,490 @@
+[
+  {
+    "pessoas": 2,
+    "consumo": "As vezes",
+    "eletro": "Menos de 10",
+    "tomada": "Sim",
+    "dificuldade": "02 não saber qual aparelho gasta mais",
+    "app": "Sim"
+  },
+  {
+    "pessoas": 3,
+    "consumo": "Sempre",
+    "eletro": "Mais de 10",
+    "tomada": "Não",
+    "dificuldade": "03 conta chega sem detalhe por aparelho",
+    "app": "Sim"
+  },
+  {
+    "pessoas": 4,
+    "consumo": "Nunca",
+    "eletro": "Mais de 10",
+    "tomada": "Sim",
+    "dificuldade": "04 ar-condicionado ligado o dia todo",
+    "app": "Sim"
+  },
+  {
+    "pessoas": 2,
+    "consumo": "As vezes",
+    "eletro": "Menos de 10",
+    "tomada": "Não",
+    "dificuldade": "05 geladeira antiga e sem medição",
+    "app": "Sim"
+  },
+  {
+    "pessoas": 5,
+    "consumo": "Sempre",
+    "eletro": "Mais de 10",
+    "tomada": "Sim",
+    "dificuldade": "06 vários aparelhos em standby",
+    "app": "Sim"
+  },
+  {
+    "pessoas": 1,
+    "consumo": "Nunca",
+    "eletro": "Menos de 10",
+    "tomada": "Não",
+    "dificuldade": "07 falta de hábito de desligar da tomada",
+    "app": "Não"
+  },
+  {
+    "pessoas": 3,
+    "consumo": "As vezes",
+    "eletro": "Mais de 10",
+    "tomada": "Sim",
+    "dificuldade": "08 chuveiro e micro-ondas no mesmo horário",
+    "app": "Sim"
+  },
+  {
+    "pessoas": 6,
+    "consumo": "Sempre",
+    "eletro": "Mais de 10",
+    "tomada": "Sim",
+    "dificuldade": "09 não consegue comparar um mês com o outro",
+    "app": "Sim"
+  },
+  {
+    "pessoas": 2,
+    "consumo": "Nunca",
+    "eletro": "Menos de 10",
+    "tomada": "Sim",
+    "dificuldade": "10 televisão fica em standby",
+    "app": "Sim"
+  },
+  {
+    "pessoas": 4,
+    "consumo": "As vezes",
+    "eletro": "Menos de 10",
+    "tomada": "Não",
+    "dificuldade": "11 máquina de lavar usada fora do horário",
+    "app": "Não"
+  },
+  {
+    "pessoas": 3,
+    "consumo": "Sempre",
+    "eletro": "Mais de 10",
+    "tomada": "Sim",
+    "dificuldade": "12 muitos eletrodomésticos e pouca organização",
+    "app": "Sim"
+  },
+  {
+    "pessoas": 1,
+    "consumo": "As vezes",
+    "eletro": "Menos de 10",
+    "tomada": "Sim",
+    "dificuldade": "13 não anota o tempo de uso",
+    "app": "Sim"
+  },
+  {
+    "pessoas": 5,
+    "consumo": "Nunca",
+    "eletro": "Mais de 10",
+    "tomada": "Não",
+    "dificuldade": "14 conta alta sem saber a causa",
+    "app": "Sim"
+  },
+  {
+    "pessoas": 2,
+    "consumo": "Sempre",
+    "eletro": "Menos de 10",
+    "tomada": "Sim",
+    "dificuldade": "15 ventilador ligado a noite inteira",
+    "app": "Não"
+  },
+  {
+    "pessoas": 4,
+    "consumo": "As vezes",
+    "eletro": "Mais de 10",
+    "tomada": "Sim",
+    "dificuldade": "16 difícil lembrar de tirar da tomada",
+    "app": "Sim"
+  },
+  {
+    "pessoas": 3,
+    "consumo": "Nunca",
+    "eletro": "Menos de 10",
+    "tomada": "Não",
+    "dificuldade": "17 não tem como medir aparelho por aparelho",
+    "app": "Sim"
+  },
+  {
+    "pessoas": 6,
+    "consumo": "Sempre",
+    "eletro": "Mais de 10",
+    "tomada": "Sim",
+    "dificuldade": "18 uso espalhado entre vários moradores",
+    "app": "Sim"
+  },
+  {
+    "pessoas": 2,
+    "consumo": "As vezes",
+    "eletro": "Menos de 10",
+    "tomada": "Sim",
+    "dificuldade": "19 ferro e secador usados sem controle",
+    "app": "Não"
+  },
+  {
+    "pessoas": 4,
+    "consumo": "Sempre",
+    "eletro": "Mais de 10",
+    "tomada": "Não",
+    "dificuldade": "20 quer registrar uso, mas no papel não funciona",
+    "app": "Sim"
+  },
+  {
+    "pessoas": 1,
+    "consumo": "Nunca",
+    "eletro": "Menos de 10",
+    "tomada": "Sim",
+    "dificuldade": "01 esquecer o carregador na tomada",
+    "app": "Sim"
+  },
+  {
+    "pessoas": 2,
+    "consumo": "As vezes",
+    "eletro": "Menos de 10",
+    "tomada": "Sim",
+    "dificuldade": "02 não saber qual aparelho gasta mais",
+    "app": "Sim"
+  },
+  {
+    "pessoas": 3,
+    "consumo": "Sempre",
+    "eletro": "Mais de 10",
+    "tomada": "Não",
+    "dificuldade": "03 conta chega sem detalhe por aparelho",
+    "app": "Sim"
+  },
+  {
+    "pessoas": 4,
+    "consumo": "Nunca",
+    "eletro": "Mais de 10",
+    "tomada": "Sim",
+    "dificuldade": "04 ar-condicionado ligado o dia todo",
+    "app": "Sim"
+  },
+  {
+    "pessoas": 2,
+    "consumo": "As vezes",
+    "eletro": "Menos de 10",
+    "tomada": "Não",
+    "dificuldade": "05 geladeira antiga e sem medição",
+    "app": "Sim"
+  },
+  {
+    "pessoas": 5,
+    "consumo": "Sempre",
+    "eletro": "Mais de 10",
+    "tomada": "Sim",
+    "dificuldade": "06 vários aparelhos em standby",
+    "app": "Sim"
+  },
+  {
+    "pessoas": 1,
+    "consumo": "Nunca",
+    "eletro": "Menos de 10",
+    "tomada": "Não",
+    "dificuldade": "07 falta de hábito de desligar da tomada",
+    "app": "Não"
+  },
+  {
+    "pessoas": 3,
+    "consumo": "As vezes",
+    "eletro": "Mais de 10",
+    "tomada": "Sim",
+    "dificuldade": "08 chuveiro e micro-ondas no mesmo horário",
+    "app": "Sim"
+  },
+  {
+    "pessoas": 6,
+    "consumo": "Sempre",
+    "eletro": "Mais de 10",
+    "tomada": "Sim",
+    "dificuldade": "09 não consegue comparar um mês com o outro",
+    "app": "Sim"
+  },
+  {
+    "pessoas": 2,
+    "consumo": "Nunca",
+    "eletro": "Menos de 10",
+    "tomada": "Sim",
+    "dificuldade": "10 televisão fica em standby",
+    "app": "Sim"
+  },
+  {
+    "pessoas": 4,
+    "consumo": "As vezes",
+    "eletro": "Menos de 10",
+    "tomada": "Não",
+    "dificuldade": "11 máquina de lavar usada fora do horário",
+    "app": "Não"
+  },
+  {
+    "pessoas": 3,
+    "consumo": "Sempre",
+    "eletro": "Mais de 10",
+    "tomada": "Sim",
+    "dificuldade": "12 muitos eletrodomésticos e pouca organização",
+    "app": "Sim"
+  },
+  {
+    "pessoas": 1,
+    "consumo": "As vezes",
+    "eletro": "Menos de 10",
+    "tomada": "Sim",
+    "dificuldade": "13 não anota o tempo de uso",
+    "app": "Sim"
+  },
+  {
+    "pessoas": 5,
+    "consumo": "Nunca",
+    "eletro": "Mais de 10",
+    "tomada": "Não",
+    "dificuldade": "14 conta alta sem saber a causa",
+    "app": "Sim"
+  },
+  {
+    "pessoas": 2,
+    "consumo": "Sempre",
+    "eletro": "Menos de 10",
+    "tomada": "Sim",
+    "dificuldade": "15 ventilador ligado a noite inteira",
+    "app": "Não"
+  },
+  {
+    "pessoas": 4,
+    "consumo": "As vezes",
+    "eletro": "Mais de 10",
+    "tomada": "Sim",
+    "dificuldade": "16 difícil lembrar de tirar da tomada",
+    "app": "Sim"
+  },
+  {
+    "pessoas": 3,
+    "consumo": "Nunca",
+    "eletro": "Menos de 10",
+    "tomada": "Não",
+    "dificuldade": "17 não tem como medir aparelho por aparelho",
+    "app": "Sim"
+  },
+  {
+    "pessoas": 6,
+    "consumo": "Sempre",
+    "eletro": "Mais de 10",
+    "tomada": "Sim",
+    "dificuldade": "18 uso espalhado entre vários moradores",
+    "app": "Sim"
+  },
+  {
+    "pessoas": 2,
+    "consumo": "As vezes",
+    "eletro": "Menos de 10",
+    "tomada": "Sim",
+    "dificuldade": "19 ferro e secador usados sem controle",
+    "app": "Sim"
+  },
+  {
+    "pessoas": 4,
+    "consumo": "Sempre",
+    "eletro": "Mais de 10",
+    "tomada": "Não",
+    "dificuldade": "20 quer registrar uso, mas no papel não funciona",
+    "app": "Sim"
+  },
+  {
+    "pessoas": 4,
+    "consumo": "As vezes",
+    "eletro": "Menos de 10",
+    "tomada": "Sim",
+    "dificuldade": "Chuveiro e geladeira",
+    "app": "Sim"
+  },
+  {
+    "pessoas": 4,
+    "consumo": "As vezes",
+    "eletro": "Mais de 10",
+    "tomada": "Sim",
+    "dificuldade": "Energia",
+    "app": "Sim"
+  },
+  {
+    "pessoas": 4,
+    "consumo": "Sempre",
+    "eletro": "Mais de 10",
+    "tomada": "Não",
+    "dificuldade": "O Banho no chuveiro",
+    "app": "Sim"
+  },
+  {
+    "pessoas": 1,
+    "consumo": "Nunca",
+    "eletro": "Menos de 10",
+    "tomada": "Sim",
+    "dificuldade": "01 esquecer o carregador na tomada",
+    "app": "Sim"
+  },
+  {
+    "pessoas": 2,
+    "consumo": "As vezes",
+    "eletro": "Menos de 10",
+    "tomada": "Sim",
+    "dificuldade": "02 não saber qual aparelho gasta mais",
+    "app": "Sim"
+  },
+  {
+    "pessoas": 3,
+    "consumo": "Sempre",
+    "eletro": "Mais de 10",
+    "tomada": "Não",
+    "dificuldade": "03 conta chega sem detalhe por aparelho",
+    "app": "Sim"
+  },
+  {
+    "pessoas": 4,
+    "consumo": "Nunca",
+    "eletro": "Mais de 10",
+    "tomada": "Sim",
+    "dificuldade": "04 ar-condicionado ligado o dia todo",
+    "app": "Sim"
+  },
+  {
+    "pessoas": 2,
+    "consumo": "As vezes",
+    "eletro": "Menos de 10",
+    "tomada": "Não",
+    "dificuldade": "05 geladeira antiga e sem medição",
+    "app": "Sim"
+  },
+  {
+    "pessoas": 5,
+    "consumo": "Sempre",
+    "eletro": "Mais de 10",
+    "tomada": "Sim",
+    "dificuldade": "06 vários aparelhos em standby",
+    "app": "Sim"
+  },
+  {
+    "pessoas": 1,
+    "consumo": "Nunca",
+    "eletro": "Menos de 10",
+    "tomada": "Não",
+    "dificuldade": "07 falta de hábito de desligar da tomada",
+    "app": "Não"
+  },
+  {
+    "pessoas": 3,
+    "consumo": "As vezes",
+    "eletro": "Mais de 10",
+    "tomada": "Sim",
+    "dificuldade": "08 chuveiro e micro-ondas no mesmo horário",
+    "app": "Sim"
+  },
+  {
+    "pessoas": 6,
+    "consumo": "Sempre",
+    "eletro": "Mais de 10",
+    "tomada": "Sim",
+    "dificuldade": "09 não consegue comparar um mês com o outro",
+    "app": "Sim"
+  },
+  {
+    "pessoas": 2,
+    "consumo": "Nunca",
+    "eletro": "Menos de 10",
+    "tomada": "Sim",
+    "dificuldade": "10 televisão fica em standby",
+    "app": "Sim"
+  },
+  {
+    "pessoas": 4,
+    "consumo": "As vezes",
+    "eletro": "Menos de 10",
+    "tomada": "Não",
+    "dificuldade": "11 máquina de lavar usada fora do horário",
+    "app": "Não"
+  },
+  {
+    "pessoas": 3,
+    "consumo": "Sempre",
+    "eletro": "Mais de 10",
+    "tomada": "Sim",
+    "dificuldade": "12 muitos eletrodomésticos e pouca organização",
+    "app": "Sim"
+  },
+  {
+    "pessoas": 1,
+    "consumo": "As vezes",
+    "eletro": "Menos de 10",
+    "tomada": "Sim",
+    "dificuldade": "13 não anota o tempo de uso",
+    "app": "Sim"
+  },
+  {
+    "pessoas": 5,
+    "consumo": "Nunca",
+    "eletro": "Mais de 10",
+    "tomada": "Não",
+    "dificuldade": "14 conta alta sem saber a causa",
+    "app": "Sim"
+  },
+  {
+    "pessoas": 2,
+    "consumo": "Sempre",
+    "eletro": "Menos de 10",
+    "tomada": "Sim",
+    "dificuldade": "15 ventilador ligado a noite inteira",
+    "app": "Não"
+  },
+  {
+    "pessoas": 4,
+    "consumo": "As vezes",
+    "eletro": "Mais de 10",
+    "tomada": "Sim",
+    "dificuldade": "16 difícil lembrar de tirar da tomada",
+    "app": "Sim"
+  },
+  {
+    "pessoas": 3,
+    "consumo": "Nunca",
+    "eletro": "Menos de 10",
+    "tomada": "Não",
+    "dificuldade": "17 não tem como medir aparelho por aparelho",
+    "app": "Sim"
+  },
+  {
+    "pessoas": 6,
+    "consumo": "Sempre",
+    "eletro": "Mais de 10",
+    "tomada": "Sim",
+    "dificuldade": "18 uso espalhado entre vários moradores",
+    "app": "Sim"
+  },
+  {
+    "pessoas": 2,
+    "consumo": "As vezes",
+    "eletro": "Menos de 10",
+    "tomada": "Sim",
+    "dificuldade": "19 ferro e secador usados sem controle",
+    "app": "Sim"
+  }
+]
